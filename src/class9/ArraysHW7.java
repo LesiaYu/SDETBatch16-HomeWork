@@ -15,5 +15,17 @@ public class ArraysHW7 {
             }
 
         }System.out.println(largest);
+
+        System.out.println();
+
+         int [] numbers1={10,20,50,40,30};
+         int largest1= numbers1[0];
+         for (int num:numbers1){
+             if (num>largest1){
+                 largest1=num;
+             }
+
+
+         } System.out.println(largest1);
     }
 }

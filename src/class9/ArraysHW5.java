@@ -14,7 +14,7 @@ public class ArraysHW5 {
         System.out.println();
 
         String [] animals1={"Dog","Cat","Leopard","Butterfly","Cow"};
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < animals1.length; i++) {
             System.out.print(animals1[i]+" ");
 
         }

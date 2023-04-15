@@ -13,7 +13,7 @@ public class ArraysHW4 {
         System.out.println();
 
         String [] cars1={"Mazda", "Mercedes","BMW","Land-Rower","Porsche","Hyundai"};
-        for (int i = 0; i < 6; i++) {
+        for (int i = 0; i < cars1.length; i++) {
             System.out.print(cars1[i]+" ");
 
         }
