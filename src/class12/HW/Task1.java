@@ -18,7 +18,7 @@ public class Task1 {
             }
 
         }else{
-                System.out.println("Name is blink");
+                System.out.println("String is empty");
             }
 
     }
