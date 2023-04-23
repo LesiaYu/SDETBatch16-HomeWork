@@ -20,9 +20,9 @@ public class HW6 {
             }
         }
             if (!isprime)
-                System.out.println("The given is number " + number + " is prime");
+                System.out.println("The given number " + number + " is prime");
             else
-                System.out.println("The given is number " + number + " is not prime");
+                System.out.println("The given number " + number + " is not prime");
 
             }
         }
