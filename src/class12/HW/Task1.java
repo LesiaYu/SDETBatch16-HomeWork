@@ -8,16 +8,18 @@ public class Task1 {
         // the character in the middle of the String.
         //For Example String str=hello =>l
 
-        String name="WERONICAT";
+        String name="WERONICATTT";
 
 
-            if (name.isBlank()){
+            if (!name.isBlank()){
+                if(name.length()%2==1 && name.length()>3){
+                    int middle=name.length()/2;
+                    System.out.println(name.charAt(middle));
+            }
 
-            }else if(name.length()%2==1 && name.length()>3){
-                int middle=name.length()/2;
-                System.out.println(name.charAt(middle));
-
-        }
+        }else{
+                System.out.println("Name is blink");
+            }
 
     }
 }
