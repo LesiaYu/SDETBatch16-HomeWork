@@ -13,7 +13,7 @@ public class Task1 {
 
             if (name.isBlank()){
 
-            }else if(name.length()%2==1 || name.length()>3){
+            }else if(name.length()%2==1 && name.length()>3){
                 int middle=name.length()/2;
                 System.out.println(name.charAt(middle));
 
