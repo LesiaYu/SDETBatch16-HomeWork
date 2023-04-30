@@ -1,9 +1,10 @@
 package class13.HW;
 
 public class Task1 {
+
     //How would you reverse a String word by word? for example
-    //        // input=>This is sentence i want to reverse
-    //        // output=>sihT si ecnetnes i tnaw ot esrever
+    // input=>This is sentence I want to reverse
+    // output=>sihT si ecnetnes I tnaw ot esrever
 
     public static void main(String[] args) {
 

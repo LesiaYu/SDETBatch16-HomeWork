@@ -11,5 +11,7 @@ public class E6StringDemo {
         StringBuilder str2= new StringBuilder("Husband");
         str2.reverse();
         System.out.println(str2);
+
+
     }
 }
