@@ -8,5 +8,12 @@ public class E7StringDemo {
         System.out.println(sentence.trim());
 
 
+
+
+        String word ="abrakadabra";
+
+        String replace=word.replaceAll("[^aAeEiIoOuU]", "");
+
+        System.out.println(replace);
     }
 }
