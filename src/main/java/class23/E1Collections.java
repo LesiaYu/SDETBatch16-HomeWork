@@ -14,8 +14,8 @@ public class E1Collections {
     names2[0]="Semir";
 
     ArrayList<String> arrayList=new ArrayList<>();
-    arrayList.add("Pavel");
-    arrayList.add("Ramil");
+        arrayList.add("Pavel");
+        arrayList.add("Ramil");
         arrayList.add("Ramil");
         arrayList.add("Vlad");
         arrayList.add("Masoud");
